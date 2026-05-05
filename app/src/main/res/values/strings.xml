@@ -1,0 +1,5 @@
+<resources>
+<string name="app_name">Float Notes</string>
+<string name="notification_title">Float Notes Active</string>
+<string name="notification_text">Tap the bubble to create floating notes</string>
+</resources>
